@@ -1,0 +1,12 @@
+.pybuild
+surge/debian/pulse
+surge/debian/files
+*.debhelper
+debhelper-build-stamp
+*.substvars
+*.deb
+*.buildinfo
+*.changes
+oe-logs
+oe-workdir
+.vscode
