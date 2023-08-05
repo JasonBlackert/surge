@@ -1,3 +1,3 @@
 # surge
 
-Self healing MQTT mesh network that communicates via MQTT
+Self-healing mesh network that communicates via MQTT
