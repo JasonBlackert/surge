@@ -1,0 +1,14 @@
+18feed9c92bb61883a51c96ab0beb595  lib/systemd/system/pulse.service
+13024f821edb39a13f80231a4a23d2ef  usr/bin/pulse
+89e896aaf7810435e441e2adf8bdb358  usr/lib/python3/dist-packages/pulse-0.1.0.dist-info/METADATA
+60cfd232cfcfdd8d95bcb32627b2635e  usr/lib/python3/dist-packages/pulse-0.1.0.dist-info/RECORD
+b65598d0aa0cfe0f390246499e741adb  usr/lib/python3/dist-packages/pulse-0.1.0.dist-info/WHEEL
+57d7f8d0b4f7f64f4a6004ef3705dbc5  usr/lib/python3/dist-packages/pulse-0.1.0.dist-info/entry_points.txt
+98883f7cd4abac1abf3aecd0576b1d32  usr/lib/python3/dist-packages/pulse/pulse.py
+eb6fbf26e30b40c2365acc49d99aab9b  usr/lib/python3/dist-packages/pulse/util/__init__.py
+32a05234a858c66b25b1412ab8244462  usr/lib/python3/dist-packages/pulse/util/broker.py
+80fb4de5e04ad21ba6fea22840bd9f3e  usr/lib/python3/dist-packages/pulse/util/cache.py
+01513b9982fe0984f5563fa577cd1f52  usr/lib/python3/dist-packages/pulse/util/config.py
+5a27a555d859c279c0da95d59483668e  usr/lib/python3/dist-packages/pulse/util/database.py
+8aa4552b2c17e66e9feab829a7c05c50  usr/lib/python3/dist-packages/pulse/util/store.py
+fc298d3f25d7d7b9d62e204fc3ea714b  usr/share/doc/pulse/changelog.Debian.gz

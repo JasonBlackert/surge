@@ -1,0 +1,6 @@
+[pulse]
+log_level = 'INFO'
+
+[mqtt]
+host = 'localhost'
+port =  1883

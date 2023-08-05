@@ -1,0 +1,10 @@
+[Unit]
+Description=Self-healing mesh network
+Requires=mosquitto.service
+
+[Service]
+ExecStart=/usr/bin/pulse
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

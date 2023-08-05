@@ -1,0 +1,10 @@
+Package: pulse
+Version: 0.1.0-1
+Architecture: all
+Maintainer: Jason Blackert <jason.blackert@gmail.com
+Installed-Size: 43
+Depends: python3-influxdb, python3-jinja2, python3-numpy, python3-paho-mqtt, python3-pymodbus, python3-pyroute2, python3-serial, python3-toml, python3:any (>= 3.2~)
+Section: python
+Priority: optional
+Homepage: https://github.com/JasonBlackert/pulse/tree/main
+Description: Self-healing mesh network
